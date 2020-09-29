@@ -16,21 +16,6 @@ layout: default
 
 {% include 04-lists.md %}
 
-1. Food
-    * Sushi
-    * Rice
-    * Tacos
-    * Steak
-    * Tomato
-    * Potato
-2. Places
-    * Munich
-    * Copenhagen
-    * Amsterdam
-    * Glasgow
-    * Edinburgh
-3. Movies
-    * Gladiator
-    * Inception
+<br>
 
 {% include 05-emphasis.md %}
